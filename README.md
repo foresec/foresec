@@ -1,4 +1,4 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=foresec&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=foresec&theme=transparent&hide_border=true&date_format=%5BY.%5Dn.j&card_width=700)](https://git.io/streak-stats)
 
 
 <!-- - 🔭 I’m currently working on ...
