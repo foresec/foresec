@@ -3,7 +3,7 @@
 ### 😁 Solved 😁
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhp1276)](https://solved.ac/profile/)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=foresec)](https://solved.ac/profile/foresec)
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
