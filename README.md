@@ -1,6 +1,10 @@
+<div align=center>
+
+### ⚡ Github Streak ⚡ <br/>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=foresec&theme=transparent&hide_border=true&date_format=%5BY.%5Dn.j&card_width=1000)](https://git.io/streak-stats)
 
-### 😁 Solved 😁
+### 😁 Solved 😁 <br/>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=foresec)](https://solved.ac/profile/foresec)
@@ -15,3 +19,4 @@
 - ⚡ Fun fact: ... -->
 
 
+</div>
